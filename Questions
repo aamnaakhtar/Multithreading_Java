@@ -1,0 +1,7 @@
+Exercise	
+
+1) Create and Run a Thread using Runnable Interface and Thread class and show usage of sleep and join methods in the created threads.
+2) Use a singleThreadExecutor, newCachedThreadPool() and newFixedThreadPool() to submit a list of tasks and wait for completion of all tasks.
+3) Use Synchronize method and synchronize block to enable synchronization between multiple threads trying to access method at same time.
+4) WAP to show usage of Callable and demonstrate how it is different from Runnable
+5) Write a program to simulate a deadlock in java and then improve the program to handle the deadlock using reentract lock.
